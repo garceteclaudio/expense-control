@@ -1,8 +1,57 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Expense-Control
+Expense-Control is a simple and efficient expense management application built using React and Vite with JavaScript + SWC. It helps users track and manage their expenses effectively.
 
-Currently, two official plugins are available:
+## Features:
+Add, edit, and delete expenses.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Categorize expenses for better organization.
+
+Visualize expense summaries.
+
+Responsive design for mobile and desktop.
+
+## Technologies Used:
+React: A JavaScript library for building user interfaces.
+
+Vite: A fast build tool and development server.
+
+SWC: A super-fast JavaScript/TypeScript compiler.
+
+## Installation and Setup:
+Prerequisites:
+
+Node.js (v14 or later)
+
+npm (Node Package Manager)
+
+## Steps
+- Clone the repository:
+
+git clone https://github.com/your-username/expense-control.git
+
+cd expense-control
+
+- Install dependencies:
+
+npm install
+
+- Start the development server:
+
+npm run dev
+
+Open your browser and navigate to the development server URL (e.g., http://localhost:3000).
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+
+
+GitHub: garceteclaudio
+
+Thank you for using Expense-Control! Happy expense tracking!
